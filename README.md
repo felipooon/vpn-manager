@@ -54,7 +54,7 @@ vpn-mount
 ## 📖 Documentación completa
 Para más detalles (paso a paso, troubleshooting, dependencias y explicación técnica), consulta:  
 
-👉 [VPN_Documentation.md](./VPN_Documentation.md)
+👉 [DOCUMENTATION.md](./DOCUMENTATION.md)
 
 ---
 
