@@ -1,0 +1,34 @@
+# =========================================
+# Archivos y directorios generados
+# =========================================
+examples/                # Carpeta de ejemplos (no versionar)
+*.tar.gz                 # Paquetes de salida generados
+*.log                    # Archivos de log
+*.tmp                    # Archivos temporales
+*.bak                    # Backups
+*.swp                    # Archivos temporales de Vim
+*~                       # Archivos temporales de editores
+
+# =========================================
+# Archivos del sistema
+# =========================================
+.DS_Store                # macOS
+Thumbs.db                # Windows
+ehthumbs.db              # Windows
+desktop.ini              # Windows
+
+# =========================================
+# Entornos y dependencias
+# =========================================
+venv/                    # Entornos virtuales de Python
+.env                     # Variables de entorno (si llegas a usarlas)
+__pycache__/             # Cachés de Python
+*.pyc                    # Bytecode de Python
+
+# =========================================
+# Archivos de configuración de IDEs
+# =========================================
+.vscode/                 # Visual Studio Code
+.idea/                   # JetBrains
+*.sublime-workspace
+*.sublime-project
